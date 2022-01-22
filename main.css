@@ -99,8 +99,8 @@ input[type="radio"] {
 }
 
 .select-quiz {
-  margin: 30px;
-  margin-left: 0;
+  margin: 15px;
+  margin-top: 35px;
   width: 250px;
   height: 250px;
 }

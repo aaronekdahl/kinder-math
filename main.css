@@ -60,6 +60,12 @@ button:hover {
   background-color: #38a;
 }
 
+.btn {
+  padding: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 .slide {
   position: absolute;
   left: 0px;
@@ -87,5 +93,5 @@ input[type="radio"] {
 
 .home-page {
   font-size: 22px;
-  font-weight: 400;
+  font-weight: 300;
 }
